@@ -1,4 +1,4 @@
-#Exercícios Git
+# Exercícios Git
 
 Olá, bem vindo ao meu repositório de exercícios git.
 
